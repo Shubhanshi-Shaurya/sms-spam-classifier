@@ -4,6 +4,11 @@ An AI-powered Email Spam Classifier that detects whether an email or message is 
 
 ---
 
+##  Live Demo
+You can access the live web application here: [Email/SMS Spam Classifier](https://sms-spam-classifier-65h9.onrender.com)
+
+---
+
 ##  Features
 - **Classification:** Classifies emails/messages as Spam or Ham(Not Spam).
 - **Modern UI/UX:** Clean User-friendly interface using Streamlit.
@@ -12,7 +17,7 @@ An AI-powered Email Spam Classifier that detects whether an email or message is 
 
 
 ---
-
+ 
 ##  Tech Stack
 - **Language:** Python 
 - **Data Science:** NumPy, Pandas
